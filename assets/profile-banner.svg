@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" role="img" aria-labelledby="title desc">
+<title id="title">Ahmed Shebl — .NET Backend Developer</title><desc id="desc">Charcoal and violet personal banner. C#, ASP.NET Core, and connected applications.</desc>
+<rect width="1080" height="280" rx="18" fill="#111114"/>
+<path d="M56 222H1024" stroke="#393142"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="56" y="115" fill="#f3f0f7" font-size="64" font-weight="600" letter-spacing="-2">Ahmed Shebl<tspan fill="#c7b1f4">.</tspan></text>
+<text x="58" y="171" fill="#c7b1f4" font-size="30">.NET Backend Developer</text>
+<text x="58" y="254" fill="#b7b1c2" font-size="17">C# · ASP.NET Core · APIs &amp; connected applications</text></g>
+<g fill="none" stroke="#c7b1f4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M885 75H970V125H885ZM885 155H970V195H885ZM927 125V155M897 92H934M897 106H958M897 170H949M897 183H924"/></g>
+</svg>
