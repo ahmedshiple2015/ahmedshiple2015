@@ -11,12 +11,14 @@ I build APIs and connected applications with **C# and ASP.NET Core**, bringing a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/real-estate-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/real-estate-light.svg">
-  <img alt="Real estate architecture overview: Host API, CQRS handlers, domain modules, and SQL Server" src="assets/real-estate-light.svg" width="960">
+  <img alt="Real estate architecture overview: Host API, CQRS handlers, domain modules, and PostgreSQL" src="assets/real-estate-light.svg" width="960">
 </picture>
 
 Property listings, leases, maintenance, and payments in a modular .NET 10 application.
 
 **My role: Backend Architect & Team Lead** on the ITI graduation team. Architecture highlights include nine bounded modules, CQRS/MediatR, Host adapters, and Outbox integration events. The repository contains the team's shared implementation.
+
+[My contribution: subscription backfill](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project/commit/755788d601c52e0e6815a73fbf1cc6f83d322f5d) � [Owner fixes PR](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project/pull/60)
 
 **Explore:** [Architecture, payments, and AI walkthrough](https://ahmedshiple2015.github.io/ahmed-shebl-portfolio/#work) · [Team source](https://github.com/kandeel11/Real-Estate-ITI-Graduation-Project)
 
@@ -32,7 +34,9 @@ A layered .NET 8 API covering catalog, guest carts, checkout, and seller workflo
 
 **My focus: Backend development.** API, Application, Domain, and Infrastructure layers organize the code; JWT/Identity, ownership checks, guest access tokens, and Stripe connect browsing to checkout.
 
-[Explore the source](https://github.com/ahmedshiple2015/E-Commerce-API)
+[Explore the source](https://github.com/ahmedshiple2015/E-Commerce-API) � [My contribution](https://github.com/ahmedshiple2015/E-Commerce-API/commit/719aeb849e44a4aae6931b097809352b79bcd895) � [30-second demo](https://github.com/ahmedshiple2015/E-Commerce-API/blob/main/docs/DEMO.md)
+
+[![CI](https://github.com/ahmedshiple2015/E-Commerce-API/actions/workflows/ci.yml/badge.svg)](https://github.com/ahmedshiple2015/E-Commerce-API/actions/workflows/ci.yml)
 
 ### [Educational Management](https://github.com/ahmedshiple2015/MVCProject)
 
@@ -46,11 +50,13 @@ An ASP.NET Core MVC application connecting students, instructors, courses, and d
 
 **My focus: Full stack .NET development.** EF Core maps enrollments and assignments, Identity separates Admin and Student roles, and repositories and Razor views organize the workflows.
 
-[Explore the source](https://github.com/ahmedshiple2015/MVCProject)
+[Explore the source](https://github.com/ahmedshiple2015/MVCProject) � [My contribution](https://github.com/ahmedshiple2015/MVCProject/commit/67cb264690af10ad899d303144b8cbadc10c3400) � [30-second demo](https://github.com/ahmedshiple2015/MVCProject/blob/master/docs/DEMO.md)
+
+[![CI](https://github.com/ahmedshiple2015/MVCProject/actions/workflows/ci.yml/badge.svg)](https://github.com/ahmedshiple2015/MVCProject/actions/workflows/ci.yml)
 
 ## Core toolkit
 
-**C# · ASP.NET Core · EF Core · SQL Server**  
+**C# · ASP.NET Core · EF Core · PostgreSQL**  
 **Payments:** Paymob · Stripe &nbsp; | &nbsp; **Architecture:** CQRS · MediatR · Outbox
 
 <details>
@@ -59,7 +65,7 @@ An ASP.NET Core MVC application connecting students, instructors, courses, and d
 **Frontend:** Angular · TypeScript · JavaScript · HTML · CSS · Bootstrap  
 **Integrations & delivery:** SignalR · Semantic Kernel · Qdrant · n8n · Azure · Docker · GitHub Actions
 
-- [Ecobazar](https://github.com/ahmedshiple2015/CST-E-commerce-Project): team frontend commerce demo using ES6 modules, OOP, and browser storage. My role: Front-End Architect & Developer. The linked repository is a team-project fork.
+- [Ecobazar](https://github.com/ahmedshiple2015/CST-E-commerce-Project): team frontend commerce demo using ES6 modules, OOP, and browser storage. My role: Front-End Architect & Developer. The linked repository is a team-project fork. [My product/navigation changes](https://github.com/ahmedshiple2015/CST-E-commerce-Project/commit/6806a7d0f187040a66d2d18ff4aba495c4d609b1) � [Browsing demo](https://github.com/ahmedshiple2015/CST-E-commerce-Project/blob/main/docs/DEMO.md).
 - [Personal portfolio](https://github.com/ahmedshiple2015/ahmed-shebl-portfolio): React, responsive project showcases, persistent light/dark themes, and playable mini-games.
 
 **Education**
